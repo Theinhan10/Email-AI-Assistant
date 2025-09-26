@@ -1,0 +1,68 @@
+/* Styling for the custom AI Reply button */
+.ai-reply-button {
+    margin-right: 8px !important;
+    border-radius: 18px !important;
+    background-color: #4CAF50 !important;
+    color: white !important;
+    max-width: 70px !important;
+    min-width: 72px !important;
+    font-size: 12px !important;
+    padding: 0 6px !important;  
+}
+
+/* Styling for the custom AI Rewrite button */
+.ai-rewrite-button {
+    margin-right: 8px !important;
+    border-radius: 18px !important;
+    background-color: #593fed !important; /* light gray background to stand out */
+    padding: 0 6px !important;     /* spacing inside the button */
+    max-width: 70px !important;
+    min-width: 72px !important;
+    font-size: 12px !important;
+}
+
+/* Popup container */
+.ai-rewrite-popup {
+    position: fixed;
+    bottom: 110px;   
+    left: 50%;                 /* Pushes to the middle horizontally */
+    transform: translateX(-50%); /* Corrects the centering */
+    padding: 12px;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    z-index: 1001;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.1) !important;
+    width: 30%;
+}
+/* Textarea inside popup */
+.ai-rewrite-popup textarea {
+    width: 90%;
+    resize: vertical;
+    padding: 8px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-family: Arial, sans-serif;
+}
+
+/* Button inside popup */
+.ai-rewrite-popup button {
+    margin-top: 8px;
+    padding: 6px 12px;
+    border: none;
+    border-radius: 6px;
+    background-color: #1a73e8;
+    color: white;
+    cursor: pointer;
+}
+
+.cancel-btn {
+    background-color: #f44336 !important; /* Red */
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-left: 8px; /* adds spacing from Rewrite */
+  }
+  

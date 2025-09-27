@@ -1,4 +1,3 @@
-# Email-AI-Assistant
 # 📧 Email AI Assistant
 
 An AI-powered **Google Chrome extension** that helps users **automate email replies** and **rewrite drafts** into clear, professional messages.

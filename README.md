@@ -17,11 +17,11 @@ Writing professional emails can be time-consuming and stressful. I created this 
 
 ## 🚀 What This Project Demonstrates About Me
 
-✅ Strong knowledge of **Java & Spring Boot** for backend development
-✅ Experience using **Spring AI** to integrate AI into real applications
-✅ Built a **Chrome Extension** as a user-friendly frontend interface
-✅ Ability to work with **REST APIs** and environment variables for secure API usage
-✅ Problem-solving and initiative by turning a common problem (emails) into a working solution
+- ✅ **Strong knowledge of Java & Spring Boot** for backend development  
+- ✅ **Experience using Spring AI** to integrate AI into real applications  
+- ✅ **Built a Chrome Extension** as a user-friendly frontend interface  
+- ✅ **Ability to work with REST APIs** and environment variables for secure API usage  
+- ✅ **Problem-solving and initiative** by turning a common problem (emails) into a working solution
 
 ---
 
